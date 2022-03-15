@@ -4,8 +4,10 @@
 
 ## python 3.7.10
 ## carla simulator version 0.9.9 (https://carla.readthedocs.io/en/0.9.9/)
-## cantools 36.2.0 (pip install cantools)
-## python-can3.3.4 (pip install python-can)
+## cantools 36.2.0 
+### pip install cantools
+## python-can3.3.4 
+### pip install python-can
 ## CANdevStudio (https://github.com/GENIVI/CANdevStudio)
 
 # Run the "vcan.sh" file in the terminal with the following command: 
