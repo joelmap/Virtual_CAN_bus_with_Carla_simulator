@@ -30,4 +30,4 @@
 
 # See the video below for more details and also how to use CANdevStudio to send CAN bus messages:
 
-[[Download the video]](https://drive.google.com/file/d/1vo-2ze3R-R6Kp9GtNahsAc-q-uJgi0wl/view?usp=sharing)
+[[Watch the video]](https://drive.google.com/file/d/1vo-2ze3R-R6Kp9GtNahsAc-q-uJgi0wl/view?usp=sharing)
