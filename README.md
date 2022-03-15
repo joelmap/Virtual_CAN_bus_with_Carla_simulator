@@ -29,4 +29,5 @@
 ## python modified_client_v2.py 
 
 # See the video below for more details and also how to use CANdevStudio to send CAN bus messages:
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](canBus_CarlaSimulator.mp4)
+
+[[Download the video]](canBus_CarlaSimulator.mp4)
