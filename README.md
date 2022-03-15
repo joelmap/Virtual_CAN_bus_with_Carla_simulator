@@ -5,9 +5,9 @@
 ## python 3.7.10
 ## carla simulator version 0.9.9 (https://carla.readthedocs.io/en/0.9.9/)
 ## cantools 36.2.0 
-### pip install cantools
+### -- pip install cantools
 ## python-can3.3.4 
-### pip install python-can
+### -- pip install python-can
 ## CANdevStudio (https://github.com/GENIVI/CANdevStudio)
 
 # Run the "vcan.sh" file in the terminal with the following command: 
@@ -19,13 +19,13 @@
 ## sudo apt-get install carla-simulator
 ## cd /opt/carla-simulator
 
-# Running CARLA
+# Running CARLA Server
 
 ## cd bin
 ## ./CarlaUE4.sh
 
 # Put the files that are inside the "files_for_Carla_simulator" folder inside the carla directory "/opt/carla-simulator/PythonAPI/examples" 
-# Run the Carla client
+# Running CARLA client
 ## python modified_client_v2.py 
 
 # See the video below for more details and also how to use CANdevStudio to send CAN bus messages:
