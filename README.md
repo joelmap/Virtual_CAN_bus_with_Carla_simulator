@@ -8,7 +8,8 @@
 ## python-can3.3.4 (pip install python-can)
 ## CANdevStudio (https://github.com/GENIVI/CANdevStudio)
 
-# Roda o arquivo "vcan.sh" no terminal com o seguinte comando: ./vcan.sh
+# Run the "vcan.sh" file in the terminal with the following command: 
+## ./vcan.sh
 
 # Install CARLA and check for the installation in the /opt/ folder.
 
